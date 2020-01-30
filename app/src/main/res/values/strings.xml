@@ -12,6 +12,9 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="lbl_origin">Origin</string>
+    <string name="lbl_alsoKnowAs">Also know As</string>
+    <string name="lbl_ingredients">Ingredients</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
